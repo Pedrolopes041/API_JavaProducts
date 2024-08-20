@@ -1,4 +1,4 @@
-package com.example.TesteApi.models;
+package com.example.TesteApi.Models;
 
 import jakarta.persistence.*;
 
